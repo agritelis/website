@@ -2,6 +2,17 @@
 
 > Cybersecurity CV and professional profile for Konstantinos Agritelis — L3 Escalation Engineer specializing in secure email infrastructure, advanced threat protection, Fortinet technologies, packet analysis, authentication integrations, lab reproduction, and automation-driven support workflows.
 
+## File lists
+
+- [Markdown CV](https://agritelis.com/cv.md)
+- [Main website](https://agritelis.com/)
+
+## Optional
+
+- [Markdown CV](https://agritelis.com/cv.md)
+
+## Site information
+
 Website: https://agritelis.com/
 Canonical URL: https://agritelis.com/
 Primary language: English
