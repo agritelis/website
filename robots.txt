@@ -3,39 +3,51 @@
 #
 
 User-agent: GPTBot
+Allow: /llms.txt
 Disallow: /
 
 User-agent: ChatGPT-User
+Allow: /llms.txt
 Disallow: /
 
 User-agent: Google-Extended
+Allow: /llms.txt
 Disallow: /
 
 User-agent: CCBot
+Allow: /llms.txt
 Disallow: /
 
 User-agent: anthropic-ai
+Allow: /llms.txt
 Disallow: /
 
 User-agent: ClaudeBot
+Allow: /llms.txt
 Disallow: /
 
 User-agent: PerplexityBot
+Allow: /llms.txt
 Disallow: /
 
 User-agent: cohere-ai
+Allow: /llms.txt
 Disallow: /
 
 User-agent: MEGARBL
+Allow: /llms.txt
 Disallow: /
 
 User-agent: Squid Prime
+Allow: /llms.txt
 Disallow: /
 
 User-agent: Squid Malicious
+Allow: /llms.txt
 Disallow: /
 
 User-agent: *
+Allow: /llms.txt
 Disallow: /
 Crawl-delay: 20
 
